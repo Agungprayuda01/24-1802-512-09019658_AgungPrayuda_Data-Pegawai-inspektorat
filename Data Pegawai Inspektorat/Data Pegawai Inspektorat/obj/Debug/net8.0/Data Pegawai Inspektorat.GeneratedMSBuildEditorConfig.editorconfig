@@ -1,0 +1,83 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Data_Pegawai_Inspektorat
+build_property.RootNamespace = Data_Pegawai_Inspektorat
+build_property.ProjectDir = D:\vb tutorial\TT\Teknikal Test Inspektorat\Data Pegawai Inspektorat\Data Pegawai Inspektorat\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\vb tutorial\TT\Teknikal Test Inspektorat\Data Pegawai Inspektorat\Data Pegawai Inspektorat
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/vb tutorial/TT/Teknikal Test Inspektorat/Data Pegawai Inspektorat/Data Pegawai Inspektorat/Areas/Identity/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/vb tutorial/TT/Teknikal Test Inspektorat/Data Pegawai Inspektorat/Data Pegawai Inspektorat/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/vb tutorial/TT/Teknikal Test Inspektorat/Data Pegawai Inspektorat/Data Pegawai Inspektorat/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/vb tutorial/TT/Teknikal Test Inspektorat/Data Pegawai Inspektorat/Data Pegawai Inspektorat/Views/Pegawais/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVnYXdhaXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/vb tutorial/TT/Teknikal Test Inspektorat/Data Pegawai Inspektorat/Data Pegawai Inspektorat/Views/Pegawais/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVnYXdhaXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/vb tutorial/TT/Teknikal Test Inspektorat/Data Pegawai Inspektorat/Data Pegawai Inspektorat/Views/Pegawais/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVnYXdhaXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/vb tutorial/TT/Teknikal Test Inspektorat/Data Pegawai Inspektorat/Data Pegawai Inspektorat/Views/Pegawais/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVnYXdhaXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/vb tutorial/TT/Teknikal Test Inspektorat/Data Pegawai Inspektorat/Data Pegawai Inspektorat/Views/Pegawais/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVnYXdhaXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/vb tutorial/TT/Teknikal Test Inspektorat/Data Pegawai Inspektorat/Data Pegawai Inspektorat/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/vb tutorial/TT/Teknikal Test Inspektorat/Data Pegawai Inspektorat/Data Pegawai Inspektorat/Views/Shared/_LoginPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/vb tutorial/TT/Teknikal Test Inspektorat/Data Pegawai Inspektorat/Data Pegawai Inspektorat/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/vb tutorial/TT/Teknikal Test Inspektorat/Data Pegawai Inspektorat/Data Pegawai Inspektorat/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/vb tutorial/TT/Teknikal Test Inspektorat/Data Pegawai Inspektorat/Data Pegawai Inspektorat/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/vb tutorial/TT/Teknikal Test Inspektorat/Data Pegawai Inspektorat/Data Pegawai Inspektorat/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-dn1oxy23f4

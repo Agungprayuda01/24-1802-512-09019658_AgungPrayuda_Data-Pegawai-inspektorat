@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\vb tutorial\\TT\\Teknikal Test Inspektorat\\Data Pegawai Inspektorat\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E8D76D62-2694-45F3-80C8-B873622DEBE7}|Data Pegawai Inspektorat\\Data Pegawai Inspektorat.csproj|d:\\vb tutorial\\tt\\teknikal test inspektorat\\data pegawai inspektorat\\data pegawai inspektorat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8D76D62-2694-45F3-80C8-B873622DEBE7}|Data Pegawai Inspektorat\\Data Pegawai Inspektorat.csproj|solutionrelative:data pegawai inspektorat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8D76D62-2694-45F3-80C8-B873622DEBE7}|Data Pegawai Inspektorat\\Data Pegawai Inspektorat.csproj|d:\\vb tutorial\\tt\\teknikal test inspektorat\\data pegawai inspektorat\\data pegawai inspektorat\\views\\pegawais\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E8D76D62-2694-45F3-80C8-B873622DEBE7}|Data Pegawai Inspektorat\\Data Pegawai Inspektorat.csproj|solutionrelative:data pegawai inspektorat\\views\\pegawais\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8D76D62-2694-45F3-80C8-B873622DEBE7}|Data Pegawai Inspektorat\\Data Pegawai Inspektorat.csproj|d:\\vb tutorial\\tt\\teknikal test inspektorat\\data pegawai inspektorat\\data pegawai inspektorat\\views\\pegawais\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E8D76D62-2694-45F3-80C8-B873622DEBE7}|Data Pegawai Inspektorat\\Data Pegawai Inspektorat.csproj|solutionrelative:data pegawai inspektorat\\views\\pegawais\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8D76D62-2694-45F3-80C8-B873622DEBE7}|Data Pegawai Inspektorat\\Data Pegawai Inspektorat.csproj|d:\\vb tutorial\\tt\\teknikal test inspektorat\\data pegawai inspektorat\\data pegawai inspektorat\\controllers\\pegawaiscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8D76D62-2694-45F3-80C8-B873622DEBE7}|Data Pegawai Inspektorat\\Data Pegawai Inspektorat.csproj|solutionrelative:data pegawai inspektorat\\controllers\\pegawaiscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\vb tutorial\\TT\\Teknikal Test Inspektorat\\Data Pegawai Inspektorat\\Data Pegawai Inspektorat\\Data\\Migrations\\20241210030541_AddPegawaiemail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Data Pegawai Inspektorat\\Data\\Migrations\\20241210030541_AddPegawaiemail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\vb tutorial\\TT\\Teknikal Test Inspektorat\\Data Pegawai Inspektorat\\Data Pegawai Inspektorat\\Data\\Migrations\\20241210024355_AddPegawairole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Data Pegawai Inspektorat\\Data\\Migrations\\20241210024355_AddPegawairole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\vb tutorial\\TT\\Teknikal Test Inspektorat\\Data Pegawai Inspektorat\\Data Pegawai Inspektorat\\Data\\Migrations\\20241210023445_InitialPegawai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Data Pegawai Inspektorat\\Data\\Migrations\\20241210023445_InitialPegawai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8D76D62-2694-45F3-80C8-B873622DEBE7}|Data Pegawai Inspektorat\\Data Pegawai Inspektorat.csproj|d:\\vb tutorial\\tt\\teknikal test inspektorat\\data pegawai inspektorat\\data pegawai inspektorat\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8D76D62-2694-45F3-80C8-B873622DEBE7}|Data Pegawai Inspektorat\\Data Pegawai Inspektorat.csproj|solutionrelative:data pegawai inspektorat\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8D76D62-2694-45F3-80C8-B873622DEBE7}|Data Pegawai Inspektorat\\Data Pegawai Inspektorat.csproj|d:\\vb tutorial\\tt\\teknikal test inspektorat\\data pegawai inspektorat\\data pegawai inspektorat\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E8D76D62-2694-45F3-80C8-B873622DEBE7}|Data Pegawai Inspektorat\\Data Pegawai Inspektorat.csproj|solutionrelative:data pegawai inspektorat\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\vb tutorial\\TT\\Teknikal Test Inspektorat\\Data Pegawai Inspektorat\\Data Pegawai Inspektorat\\Program.cs",
+              "RelativeDocumentMoniker": "Data Pegawai Inspektorat\\Program.cs",
+              "ToolTip": "D:\\vb tutorial\\TT\\Teknikal Test Inspektorat\\Data Pegawai Inspektorat\\Data Pegawai Inspektorat\\Program.cs",
+              "RelativeToolTip": "Data Pegawai Inspektorat\\Program.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T04:17:55.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\vb tutorial\\TT\\Teknikal Test Inspektorat\\Data Pegawai Inspektorat\\Data Pegawai Inspektorat\\Views\\Pegawais\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Data Pegawai Inspektorat\\Views\\Pegawais\\Edit.cshtml",
+              "ToolTip": "D:\\vb tutorial\\TT\\Teknikal Test Inspektorat\\Data Pegawai Inspektorat\\Data Pegawai Inspektorat\\Views\\Pegawais\\Edit.cshtml",
+              "RelativeToolTip": "Data Pegawai Inspektorat\\Views\\Pegawais\\Edit.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACAAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-10T04:10:16.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\vb tutorial\\TT\\Teknikal Test Inspektorat\\Data Pegawai Inspektorat\\Data Pegawai Inspektorat\\Views\\Pegawais\\Index.cshtml",
+              "RelativeDocumentMoniker": "Data Pegawai Inspektorat\\Views\\Pegawais\\Index.cshtml",
+              "ToolTip": "D:\\vb tutorial\\TT\\Teknikal Test Inspektorat\\Data Pegawai Inspektorat\\Data Pegawai Inspektorat\\Views\\Pegawais\\Index.cshtml",
+              "RelativeToolTip": "Data Pegawai Inspektorat\\Views\\Pegawais\\Index.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAAkAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-10T03:07:45.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20241210030541_AddPegawaiemail.cs",
+              "DocumentMoniker": "D:\\vb tutorial\\TT\\Teknikal Test Inspektorat\\Data Pegawai Inspektorat\\Data Pegawai Inspektorat\\Data\\Migrations\\20241210030541_AddPegawaiemail.cs",
+              "RelativeDocumentMoniker": "Data Pegawai Inspektorat\\Data\\Migrations\\20241210030541_AddPegawaiemail.cs",
+              "ToolTip": "D:\\vb tutorial\\TT\\Teknikal Test Inspektorat\\Data Pegawai Inspektorat\\Data Pegawai Inspektorat\\Data\\Migrations\\20241210030541_AddPegawaiemail.cs",
+              "RelativeToolTip": "Data Pegawai Inspektorat\\Data\\Migrations\\20241210030541_AddPegawaiemail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T03:05:41.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PegawaisController.cs",
+              "DocumentMoniker": "D:\\vb tutorial\\TT\\Teknikal Test Inspektorat\\Data Pegawai Inspektorat\\Data Pegawai Inspektorat\\Controllers\\PegawaisController.cs",
+              "RelativeDocumentMoniker": "Data Pegawai Inspektorat\\Controllers\\PegawaisController.cs",
+              "ToolTip": "D:\\vb tutorial\\TT\\Teknikal Test Inspektorat\\Data Pegawai Inspektorat\\Data Pegawai Inspektorat\\Controllers\\PegawaisController.cs",
+              "RelativeToolTip": "Data Pegawai Inspektorat\\Controllers\\PegawaisController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T02:44:49.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20241210024355_AddPegawairole.cs",
+              "DocumentMoniker": "D:\\vb tutorial\\TT\\Teknikal Test Inspektorat\\Data Pegawai Inspektorat\\Data Pegawai Inspektorat\\Data\\Migrations\\20241210024355_AddPegawairole.cs",
+              "RelativeDocumentMoniker": "Data Pegawai Inspektorat\\Data\\Migrations\\20241210024355_AddPegawairole.cs",
+              "ToolTip": "D:\\vb tutorial\\TT\\Teknikal Test Inspektorat\\Data Pegawai Inspektorat\\Data Pegawai Inspektorat\\Data\\Migrations\\20241210024355_AddPegawairole.cs",
+              "RelativeToolTip": "Data Pegawai Inspektorat\\Data\\Migrations\\20241210024355_AddPegawairole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T02:43:55.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20241210023445_InitialPegawai.cs",
+              "DocumentMoniker": "D:\\vb tutorial\\TT\\Teknikal Test Inspektorat\\Data Pegawai Inspektorat\\Data Pegawai Inspektorat\\Data\\Migrations\\20241210023445_InitialPegawai.cs",
+              "RelativeDocumentMoniker": "Data Pegawai Inspektorat\\Data\\Migrations\\20241210023445_InitialPegawai.cs",
+              "ToolTip": "D:\\vb tutorial\\TT\\Teknikal Test Inspektorat\\Data Pegawai Inspektorat\\Data Pegawai Inspektorat\\Data\\Migrations\\20241210023445_InitialPegawai.cs",
+              "RelativeToolTip": "Data Pegawai Inspektorat\\Data\\Migrations\\20241210023445_InitialPegawai.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T02:34:45.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\vb tutorial\\TT\\Teknikal Test Inspektorat\\Data Pegawai Inspektorat\\Data Pegawai Inspektorat\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data Pegawai Inspektorat\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\vb tutorial\\TT\\Teknikal Test Inspektorat\\Data Pegawai Inspektorat\\Data Pegawai Inspektorat\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data Pegawai Inspektorat\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T02:33:47.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\vb tutorial\\TT\\Teknikal Test Inspektorat\\Data Pegawai Inspektorat\\Data Pegawai Inspektorat\\appsettings.json",
+              "RelativeDocumentMoniker": "Data Pegawai Inspektorat\\appsettings.json",
+              "ToolTip": "D:\\vb tutorial\\TT\\Teknikal Test Inspektorat\\Data Pegawai Inspektorat\\Data Pegawai Inspektorat\\appsettings.json",
+              "RelativeToolTip": "Data Pegawai Inspektorat\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAC0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-10T02:28:59.605Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
